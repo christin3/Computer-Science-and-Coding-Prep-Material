@@ -5,5 +5,5 @@ Compiling a list of useful material that I have reviewed or used to learn more a
 You will find the appropriate thank you and link to the original authors material with their associated files 
 
 # Reason Behind This 
-Since taking a 6 month course at UT Austin's codingboot camp and learning how to code full-stack applications, I wanted to start learning the theories behind computer science. I want to learn more about Algorithm development, Big O notation, OOP, Data Structures and Discrete Structures , math in computer sciences. 
+Since taking a 6 month course at UT Austin's Coding Bootcamp and learning how to code full-stack applications, I wanted to start brush up on theories behind computer science.  I want to learn more about Algorithm Development, Big O notation, OOP, Data Structures and Discrete Structures. 
 
