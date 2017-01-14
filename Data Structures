@@ -1,1 +1,79 @@
+What is a data structure?
+    - They are built upon simpler primitive data types (like variables)
+    - A way of storing data so that it can be used efficiently by the computer or browser.
+    - They are non-opinionated, in the sense, that they are just responsible for holding the        data.
 
+What are Arrays
+    - Indexed data, javascript allows a mix of types in the arrays
+    - Array size can be adjusted accordingly and is not fixed
+
+Stacks
+    - Last in first out, top is accessible first.
+    - push, pop, peek, isEmpty, clear
+
+
+Linked Lists
+    - like a train, each cart knows its position and the position of the cart in           front of it
+____________________________________________________________________
+____________________________________________________________________
+
+
+What is a data structure?
+    A way of storing data that will be used by a computer or browser
+
+What does FIFO and LIFO stand for and mean?
+    First in first out
+    Last in first out
+
+What is a Stack?
+    Stack follow a last in first out structure
+
+What is a Queue?
+    like an array but they only allow access to the first element
+    Queues follow a First in first out structure
+
+
+What is a Linked List?
+    each element is joined with the next element
+    they can keep track of the position of the elements with points
+    each element is a node, tracks its own position and the one in front of it
+    doubly linked list can point forwards and backwards
+
+
+How are they each different from arrays?
+    arrays are stored in a mem block
+
+What is one disadvantage of an array?
+
+
+Most important question: Why are we doing all this again?
+____________________________________________________________________
+____________________________________________________________________
+
+
+Dictionaries (Maps) new in ES6
+
+var map = new Map();
+map.set("cat","dog");
+
+    - In a way, dictionaries serve as a hybrid between objects and arrays.
+    - They can be iterated over like arrays.
+    - They have key, value pairs like objects.
+
+Trees
+    - Trees are a non-sequential data structure made of parent-child relationships.
+    - The top node of a tree is the root
+    - Trees have internal nodes and external nodes
+    - Each node has ancestors and descendants
+    - Leaf node is a node that does not have any children
+
+Graphs
+    - Nodes and edges where information can be put on either, like a tree but no          restriction on children
+    - Graphs are abstract models of a network structure. They are a set of nodes (or        vertices) connected by edges.
+    - They are the essence of social networks and geographic maps.
+
+
+3 different data types and examples of uses
+map - redis
+trees - mysql
+graphs - titan
